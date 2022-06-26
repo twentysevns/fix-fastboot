@@ -1,5 +1,5 @@
 # fix-fastboot
-**Resolving android fastboot can't recognize usb port 3.0 in "WINDOWS Operating System"**
+**Resolving android fastboot can't recognize usb port 3.0 in "WINDOWS Operating System (tested Ryzen 3 3300u)"**
 
 Copy to text editor! save with ```.bat``` extension, Finally execute with ```Run as administrator```
 ```@echo off
